@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sorceressyidi
 - 👀 I’m interested in maths and computer science.
-- 🌱 I’m currently a first-year student at Zhejiang University.
 - 📫 How to reach me:sorceressyidi@163.com
 <!---
 sorceressyidi/sorceressyidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
