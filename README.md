@@ -13,8 +13,8 @@ Hi, I'm Lily. I'm currently an undergraduate student at Zhejiang University, maj
 ## 📈 Stats
 
 <p align="center"> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Thorin215&show_icons=true&theme=tokyonight" />
-  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thorin215&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sorceressyidi&show_icons=true&theme=tokyonight" />
+  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=sorceressyidi&theme=tokyonight" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thorin215)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorceressyidi)](https://github.com/anuraghazra/github-readme-stats)
