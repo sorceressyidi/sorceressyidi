@@ -2,7 +2,7 @@
 ## **About Me:**
 I'm currently an undergraduate student at Zhejiang University, majoring in computer science.
 - 👀 I’m interested in maths and computer science.
-- 📫 How to reach me:sorceressyidi@gmail.com / sorceressyidi@zju.edu.cn
+- 📫 How to reach me:zhangyidi.lily@gmail.com / sorceressyidi@zju.edu.cn
 
 ## 📈 Stats
 
